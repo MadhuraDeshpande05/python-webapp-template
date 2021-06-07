@@ -3,3 +3,4 @@ flask-cors
 flask-login
 pillow
 watson_developer_cloud
+gunicorn==19.9.0
